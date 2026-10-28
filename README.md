@@ -60,8 +60,6 @@ pip install flask scikit-learn xgboost joblib matplotlib fpdf
 python app.py
 4. Open in browser
 Visit http://127.0.0.1:5000
-📄 License
-This project is licensed under the MIT License.
 
 🤝 Feedback & Collaboration
 Feel free to check it out or share your thoughts.
